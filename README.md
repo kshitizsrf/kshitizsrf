@@ -47,8 +47,7 @@ A passionate **Android & Flutter Developer** from India, building clean, user-fr
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Kshitiz Saraf](https://www.linkedin.com/in/kshitiz-saraf)  
-- **Email**: kshitizsrf@example.com
+- **LinkedIn**: [Kshitiz Saraf](https://www.linkedin.com/in/kshitiz-saraf) 
 
 ---
 
