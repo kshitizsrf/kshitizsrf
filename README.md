@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kshitiz%20Saraf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Flutter%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/kshitizsrf">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+native+Android+apps+with+Kotlin;Crafting+cross-platform+apps+with+Flutter;Jetpack+Compose+%7C+Firebase+%7C+Clean+UI;Always+shipping+something+new&font=Fira%20Code&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+native+Android+apps+with+Kotlin;Crafting+cross-platform+apps+with+Flutter;Jetpack+Compose+%7C+Firebase+%7C+Clean+UI;Always+shipping+something+new&font=Fira%20Code&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=22" />
 </a>
 
 <br/>
@@ -49,36 +49,36 @@ class KshitizSaraf : MobileDeveloper {
 <tr>
 <td width="50%">
 <a href="https://github.com/kshitizsrf/otp-fill-android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitizsrf&repo=otp-fill-android&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kshitizsrf&repo=otp-fill-android&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/kshitizsrf/only-tees">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitizsrf&repo=only-tees&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kshitizsrf&repo=only-tees&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/kshitizsrf/expense-tracker-android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitizsrf&repo=expense-tracker-android&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kshitizsrf&repo=expense-tracker-android&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/kshitizsrf/user-authentication-android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitizsrf&repo=user-authentication-android&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kshitizsrf&repo=user-authentication-android&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/kshitizsrf/bluetooth-connect-android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitizsrf&repo=bluetooth-connect-android&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kshitizsrf&repo=bluetooth-connect-android&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/kshitizsrf/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitizsrf&repo=portfolio&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kshitizsrf&repo=portfolio&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -94,10 +94,10 @@ class KshitizSaraf : MobileDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kshitizsrf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizsrf&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kshitizsrf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=kshitizsrf&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizsrf&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kshitizsrf&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -107,7 +107,7 @@ class KshitizSaraf : MobileDeveloper {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kshitizsrf&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-trophies.vercel.app/?username=kshitizsrf&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
