@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kshitiz%20Saraf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Flutter%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kshitiz%20Saraf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20/%20Flutter%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/kshitizsrf">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+native+Android+apps+with+Kotlin;Crafting+cross-platform+apps+with+Flutter;Jetpack+Compose+%7C+Firebase+%7C+Clean+UI;Always+shipping+something+new&font=Fira%20Code&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=22" />
