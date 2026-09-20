@@ -1,54 +1,42 @@
-# Hi there 👋, I'm Kshitiz Saraf
+# Hi, I'm Kshitiz Saraf 👋
 
-A passionate **Android & Flutter Developer** from India, building clean, user-friendly mobile applications.
+Mobile App Developer building Android & Flutter apps at **Polaris Smart Metering**, based in Jaipur, India.
 
----
-
-## 🔭 Currently Working On
-- Android & Flutter apps for **Polaris Smart Metering**
-- Improving my **backend skills** for mobile apps
-
----
-
-## 🌱 I’m Currently Learning
-- Advanced **Flutter** concepts
-- **Jetpack Compose** for Android
-- **Serverless APIs** integration
+- 🏢 Working on Android/Flutter apps at **Polaris Smart Metering**
+- 🌱 Currently deepening **Jetpack Compose** and serverless API integration
+- 🌐 Portfolio: [portfolio-sarafkshitiz.vercel.app](https://portfolio-sarafkshitiz.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kshitiz-saraf)
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-- Java | Kotlin | Dart
-- Android SDK | Flutter
-
-**Tools & Platforms:**
-- Android Studio | VS Code
-- Firebase | Git & GitHub
+**Languages:** Kotlin · Java · Dart · JavaScript
+**Mobile:** Android SDK · Jetpack Compose · Flutter
+**Tools:** Android Studio · Firebase · Git & GitHub · VS Code
 
 ---
 
-## 📂 Projects Highlights
+## 📌 Featured Projects
 
-- **[basic-calculator-android](https://github.com/kshitizsrf/basic-calculator-android)** – Simple calculator app for Android  
-- **[expense-tracker-android](https://github.com/kshitizsrf/expense-tracker-android)** – Track and manage your expenses offline  
-- **[user-authentication-android](https://github.com/kshitizsrf/user-authentication-android)** – Demonstrates Android user authentication  
+| Project | Description |
+|---|---|
+| [**otp-fill-android**](https://github.com/kshitizsrf/otp-fill-android) | Reusable Jetpack Compose OTP input with SMS autofill and animated digit boxes |
+| [**expense-tracker-android**](https://github.com/kshitizsrf/expense-tracker-android) | Offline expense tracker with a clean, simple UI |
+| [**only-tees**](https://github.com/kshitizsrf/only-tees) | A t-shirt shop with a drag-scroll clothing rack and receipt-style checkout — vanilla HTML/CSS/JS, zero dependencies |
+| [**user-authentication-android**](https://github.com/kshitizsrf/user-authentication-android) | Login/signup flow with ViewPager-based onboarding |
+| [**bluetooth-connect-android**](https://github.com/kshitizsrf/bluetooth-connect-android) | Android Bluetooth connectivity utility |
+| [**basic-calculator-android**](https://github.com/kshitizsrf/basic-calculator-android) | Single-screen calculator app |
 
-*(More projects in [Repositories](https://github.com/kshitizsrf?tab=repositories))*
+*Browse all repos → [github.com/kshitizsrf?tab=repositories](https://github.com/kshitizsrf?tab=repositories)*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitizsrf&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizsrf&layout=compact&theme=dark)
 
 ---
 
-## 📫 How to Reach Me
-
-- **LinkedIn**: [Kshitiz Saraf](https://www.linkedin.com/in/kshitiz-saraf) 
-
----
-
-✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kshitiz-saraf) or check out my [portfolio](https://portfolio-sarafkshitiz.vercel.app/).
